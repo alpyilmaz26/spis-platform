@@ -1,0 +1,6 @@
+{
+  "name": "3D Spatial Information System (SPIS)",
+  "description": "3D Spatial Information System (SPIS) for researchers and audience virtual tours, featuring spatial annotations, measurements, multi-layer GIS grouping, and automated interpretive theme tour routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
